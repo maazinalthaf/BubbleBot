@@ -5,7 +5,8 @@
 
 
 ## Disclaimer:
-> This bot is intended for a limited number of servers and is **not recommended** for widespread deployment. Widespread deployment can severely impact bot performance. This bot was built for indiviual large servers with maximum customization options with minimal setup required.
+> This bot is intended for a limited number of servers and is **not recommended** for widespread deployment. Widespread deployment can severely impact bot performance.
+> While this bot was built with individual large servers, maximum customization, and minimal setup in mind, results may vary depending on server size and configuration.
 
 ## Installation: 
 1. Clone this repository `git clone https://github.com/maazinalthaf/bubblebot/`
